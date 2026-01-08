@@ -52,7 +52,7 @@ Computer Engineering Student · Cybersecurity Enthusiast
 ### 🧪 Integrations & Experimental
 <p>
   <img src="https://skillicons.dev/icons?i=threejs&theme=dark" />
-  <img src="https://cdn.simpleicons.org/google/4285F4" height="48"/>
+  <img src="https://cdn.simpleicons.org/google/4285F4"/>
 </p>
 
 ---
