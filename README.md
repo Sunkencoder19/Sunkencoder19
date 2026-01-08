@@ -1,159 +1,115 @@
-<!-- ===================== HERO ===================== -->
-<div align="center" style="padding: 30px 10px;">
+<!-- ===================== PROFILE HEADER ===================== -->
+<h1 align="center">Hi 👋, I'm Fattesing Rane</h1>
+<h3 align="center">
+Computer Engineering Student · Cybersecurity Enthusiast
+</h3>
 
-  <h1 style="font-size: 2.6em; margin-bottom: 6px; font-weight: 700;">
-    Fattesing Rane
-  </h1>
-
-  <p style="font-size: 1.1em; color: #555;">
-    Computer Engineering Student · Cybersecurity Enthusiast
-  </p>
-
-</div>
-
-<hr style="border:none;height:1px;background:#e5e7eb;margin:30px 0;"/>
-
-<!-- ===================== ABOUT ===================== -->
-<h2>About Me</h2>
-
-<div style="background:#fafafa;padding:18px;border-radius:12px;line-height:1.6;">
-I am a <strong>second-year Computer Engineering student</strong> at
-<strong>K J Somaiya School of Engineering</strong>, with a focused interest in
-<strong>cybersecurity</strong> and <strong>MERN-based backend development</strong>.
-
-I learn best by <strong>building small projects</strong> and
-<strong>implementing concepts</strong> rather than relying solely on theory.
-Alongside technical growth, I actively develop
-<strong>management and coordination skills</strong> through event-driven and
-team-based roles.
-</div>
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-<h2 style="margin-top:36px;">Current Focus</h2>
-
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;">
-
-  <div style="background:#fff;padding:16px;border-radius:12px;border:1px solid #e5e7eb;">
-    <h3>🔐 Cybersecurity</h3>
-    <p>
-      Strengthening core security fundamentals, understanding system-level
-      vulnerabilities, and developing a defensive security mindset.
-    </p>
-  </div>
-
-  <div style="background:#fff;padding:16px;border-radius:12px;border:1px solid #e5e7eb;">
-    <h3>🌐 MERN Backend</h3>
-    <p>
-      Building scalable backend systems with authentication, APIs, and clean
-      architecture using the MERN stack.
-    </p>
-  </div>
-
-</div>
-
-<p style="margin-top:10px;color:#555;">
-Currently working on <strong>intermediate-level projects</strong> to deepen
-practical and architectural understanding.
+<p align="center">
+🔐 Cybersecurity &nbsp;•&nbsp; 🌐 MERN Backend &nbsp;•&nbsp; 🤝 MUN
 </p>
 
-<!-- ===================== EXPERIENCE ===================== -->
-<h2 style="margin-top:36px;">Experience</h2>
+---
 
-<div style="display:grid;gap:14px;">
+## 🌐 Connect With Me
 
-  <div style="background:#fff;padding:18px;border-radius:12px;border:1px solid #e5e7eb;">
-    <h3>🧑‍💻 Deputy Head of Technology</h3>
-    <p style="color:#555;"><strong>Prudencia</strong> · Present</p>
-    <ul>
-      <li>Involved in technical planning and technology-driven decision making</li>
-      <li>Applied critical thinking during ideation and execution phases</li>
-      <li>Worked closely with teams to support digital initiatives</li>
-    </ul>
-  </div>
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-  <div style="background:#fff;padding:18px;border-radius:12px;border:1px solid #e5e7eb;">
-    <h3>🤝 Delegate Affairs Team Member</h3>
-    <p style="color:#555;"><strong>Prudencia</strong> · Dec 2024 – Jun 2025</p>
-    <ul>
-      <li>Coordinated with multiple teams and external stakeholders</li>
-      <li>Handled delegate-related data with accuracy and consistency</li>
-      <li>Supported outreach and operational workflows</li>
-    </ul>
-  </div>
+---
 
-</div>
+## 🧑‍💻 About Me
 
-<!-- ===================== TECH STACK ===================== -->
-<h2 style="margin-top:36px;">Tech Stack</h2>
+- 🎓 Second-year **Computer Engineering student** at **K J Somaiya School of Engineering**
+- 🔐 Focused on **cybersecurity fundamentals** and **MERN backend development**
+- 🧠 Learn best by **building projects** and **implementing concepts**
+- 🧑‍💼 Experience in **management, coordination, and technical leadership**
+- 🤝 Active participant in **MUN conferences**
 
-<h3>🧑‍💻 Languages</h3>
-<div style="display:flex;flex-wrap:wrap;gap:14px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-</div>
+---
 
-<h3 style="margin-top:20px;">🌐 Web & Backend</h3>
-<div style="display:flex;flex-wrap:wrap;gap:14px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-</div>
+## 🛠️ Tech Stack
 
-<h3 style="margin-top:20px;">☁️ Tools & Platforms</h3>
-<div style="display:flex;flex-wrap:wrap;gap:14px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-</div>
+### 🧑‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,javascript&theme=dark" />
+</p>
 
-<h3 style="margin-top:20px;">🧪 Integrations & Experimental</h3>
-<div style="display:flex;flex-wrap:wrap;gap:14px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/google/4285F4" width="40"/>
-</div>
+### 🌐 Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb&theme=dark" />
+</p>
 
-<!-- ===================== PROJECTS ===================== -->
-<h2 style="margin-top:36px;">Projects</h2>
+### ☁️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=github,firebase,vscode&theme=dark" />
+</p>
 
-<div style="display:grid;gap:14px;">
+### 🧪 Integrations & Experimental
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" />
+  <img src="https://cdn.simpleicons.org/google/4285F4" height="48"/>
+</p>
 
-  <div style="background:#fafafa;padding:16px;border-radius:12px;">
-    <h3>🌐 Prudencia 2026 Website</h3>
-    <p>
-      Official website for Prudencia 2026, built with a focus on performance,
-      automation, and content management.
-    </p>
-    <p><strong>Tech:</strong> HTML · CSS · JavaScript · Node.js · Google Apps Script</p>
-    <p>🔗 <a href="https://www.prudencia.co.in" target="_blank">www.prudencia.co.in</a></p>
-  </div>
+---
 
-  <div style="background:#fafafa;padding:16px;border-radius:12px;">
-    <h3>🛒 FlipMart</h3>
-    <p>
-      A MERN-based e-commerce platform with product management, authentication,
-      and backend-driven workflows.
-    </p>
-    <p><strong>Tech:</strong> MongoDB · Express.js · React.js · Node.js</p>
-  </div>
+## 💼 Experience
 
-</div>
+### 🧑‍💻 Deputy Head of Technology — *Prudencia* (Present)
+- Involved in technical planning and execution
+- Applied **critical thinking** during ideation phases
+- Supported technology-driven initiatives across teams
 
-<!-- ===================== BEYOND ACADEMICS ===================== -->
-<h2 style="margin-top:36px;">Beyond Academics</h2>
+### 🤝 Delegate Affairs Team Member — *Prudencia* (Dec 2024 – Jun 2025)
+- Coordinated with multiple teams and stakeholders
+- Managed delegate data and operational workflows
 
-<ul>
-  <li>🏊 Swimming</li>
-  <li>🎾 Lawn Tennis</li>
-  <li>🤝 Active participation in MUN conferences</li>
-</ul>
+---
 
-<hr style="border:none;height:1px;background:#e5e7eb;margin:30px 0;"/>
+## 🚀 Projects
 
-<div align="center" style="color:#555;">
-  <strong>Focused on learning, building, and improving — one project at a time.</strong>
-</div>
+### 🌐 Prudencia 2026 Website
+Official website for Prudencia 2026 with automation and backend support  
+**Tech:** HTML · CSS · JavaScript · Node.js · Google Apps Script  
+🔗 https://www.prudencia.co.in
+
+### 🛒 FlipMart
+MERN-based e-commerce platform with authentication and backend workflows  
+**Tech:** MongoDB · Express.js · React.js · Node.js
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏊 Beyond Academics
+
+- 🏊 Swimming  
+- 🎾 Lawn Tennis  
+- 🤝 MUN Conferences  
+- 🧑‍💼 Event & team management  
+
+---
+
+## ⚡ Philosophy
+
+> **Build first. Learn deeply. Improve continuously.**
+
+⭐ *Feel free to explore my repositories and projects.*
