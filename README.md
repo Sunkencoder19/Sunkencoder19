@@ -85,9 +85,10 @@ MERN-based e-commerce platform with authentication and backend workflows
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunkencoder19&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunkencoder19&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sunkencoder19&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sunkencoder19&theme=tokyonight)
+
 
 ---
 
