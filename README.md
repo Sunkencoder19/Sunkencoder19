@@ -1,6 +1,6 @@
 <!-- ===================== CUSTOM BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=FATTESING%20RANE&fontSize=52&fontAlignY=38&color=0:6a11cb,100:00c6ff" />
+  <img src="https://raw.githubusercontent.com/Sunkencoder19/Sunkencoder19/main/FATTESING%20RANE.jpg" width="100%" />
 </p>
 
 <!-- ===================== TYPEWRITER ===================== -->
@@ -205,8 +205,11 @@ console.log("Leadership evolved through responsibility.");
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun Fact — System Log
 
-> **Consistency compounds faster than motivation.**
-
+```log
+[INFO] Motivation fluctuates.
+[INFO] Systems remain stable.
+[OK] Consistency deployed successfully.
+```
 ---
