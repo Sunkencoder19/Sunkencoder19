@@ -111,32 +111,6 @@ prudencia = Prudencia2026Website()
 print(prudencia.name)
 
 ```
-```python
-class FlipMart:
-    def __init__(self):
-        self.name = "FlipMart"
-        self.type = "E-Commerce Platform"
-        self.description = (
-            "MERN-based e-commerce application with authentication "
-            "and backend-driven business logic."
-        )
-        self.tech_stack = [
-            "MongoDB",
-            "Express.js",
-            "React.js",
-            "Node.js"
-        ]
-        self.features = [
-            "User authentication",
-            "Product management",
-            "Shopping cart & order processing"
-        ]
-        self.status = "In Development"
-
-
-flipmart = FlipMart()
-print(flipmart.type)
-```
 ---
 
 ## 💼 Experience
